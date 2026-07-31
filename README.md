@@ -1,33 +1,27 @@
-### Hey, I'm Pruthviraj.
+<div align="center">
 
-I'm a CS engineering student at SIT, mostly living at the intersection of AI/ML and full-stack development — turning messy real-world data (documents, video feeds, tender PDFs) into systems people can actually query and trust.
+<sub>Hello Visitor, and I'm</sub>
 
-```
-$ whoami
-Pruthviraj Patil — CGPA 8.95 — 2x hackathon winner — building AssetIQ
-```
+# P R U T H V I R A J
 
-**Right now**
+<img src="https://komarev.com/ghpvc/?username=PruthvirajBPatil11&label=Profile+Views&color=grey&style=flat-square" alt="Profile Views" />
 
-- Building AssetIQ — a RAG + knowledge graph platform for industrial documents (FastAPI, Groq/Llama, Neo4j)
-- Exploring how far LLM-assisted evaluation can go in place of manual review pipelines
-- Helping run IEEE SIT's technical events and hackathons
+*Computer Science student building AI systems for real-world problems.*
 
-**Stack I reach for**
+</div>
 
-`Python` · `C++` · `Java` · `FastAPI` · `React.js` · `MongoDB` · `SQL` · `Docker` · `Git`
+---
 
-**A few things I've built**
+### Currently Building
 
-- [`AssetIQ`](https://github.com/PruthvirajBPatil11) — unified AI brain for industrial plant knowledge; RAG + knowledge graph over PDFs, P&IDs, and inspection reports, with source-cited natural language querying — *in progress*
-- [`TenderEvalAI`](https://github.com/PruthvirajBPatil11/TENDERAI_WIN) — automated tender evaluation pipeline; OCR + rule-based & LLM matching with explainable, audit-tracked verdicts — Python, FastAPI, Streamlit, PostgreSQL
-- [`Duality AI`](https://github.com/PruthvirajBPatil11/CIT_WIN) — real-time object detection app, YOLOv8 + Flask REST API + React frontend with live webcam input — Python, Flask, React, YOLOv8
-- [`NammaSIT`](https://github.com/PruthvirajBPatil11/nammaasit) — ML-based recommendation platform connecting students to clubs and hackathons via content-based filtering — React, Node.js, MongoDB, Python
+- AssetIQ — RAG + knowledge graph platform for industrial documents
+- AI/ML pipelines and full-stack systems
+- Tools that hold up in real evaluation, not just demos
 
-**Wins along the way**
+---
 
-- Winner — Young Minds (12-hour national hackathon)
-- Winner — Duality AI (national hackathon)
-- Finalist — Smart India Hackathon (SIH), SIT round
+<div align="center">
 
-Portfolio: [pruthviraj-b-patil.vercel.app](https://pruthviraj-b-patil.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pruthviraj-patil-197926330) · [email](mailto:pruthvirajbasavarajpatil@gmail.com)
+git commit -m "shipping ideas, one hackathon at a time"
+
+</div>
