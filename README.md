@@ -35,6 +35,6 @@ Board Member at IEEE SIT SB & IEEE Computer Society, and part of the GeeksforGee
 
 <div align="center">
 
-git commit -m "shipping ideas, one hackathon at a time"
+git commit -m "retry: failed 40 times, shipping the 41st"
 
 </div>
