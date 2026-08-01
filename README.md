@@ -4,8 +4,9 @@
 
 # P R U T H V I R A J
 
-<img src="https://komarev.com/ghpvc/?username=PruthvirajBPatil11&label=Profile+Views&base=226&color=grey&style=flat-square" alt="Profile Views" />
-<a href="https://pruthviraj-b-patil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-pruthviraj--b--patil.vercel.app-grey?style=flat-square" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=PruthvirajBPatil11&label=Profile+Views&base=226&color=blue&style=flat-square" alt="Profile Views" />
+<a href="https://pruthviraj-b-patil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-pruthviraj--b--patil.vercel.app-2ea44f?style=flat-square" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/pruthviraj-patil-197926330"><img src="https://img.shields.io/badge/LinkedIn-pruthviraj--patil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 *Computer Science student building AI systems for real-world problems.*
 
