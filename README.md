@@ -16,7 +16,6 @@
 
 ### Things I've Built
 
-- **AssetIQ** — RAG + knowledge graph platform for industrial documents (FastAPI, Groq/Llama, Neo4j)
 - **TenderEvalAI** — automated tender evaluation pipeline with OCR, LLM-assisted matching, and audit-tracked verdicts
 - **Duality AI** — real-time object detection app with YOLOv8, Flask, and React
 - **NammaSIT** — ML-powered platform recommending clubs and hackathons to students
